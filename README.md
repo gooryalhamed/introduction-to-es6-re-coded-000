@@ -1,5 +1,5 @@
 # Introduction to ES6
-
+#readme lab#
 ## Objectives
 
 1. Describe the major new features in ES6
